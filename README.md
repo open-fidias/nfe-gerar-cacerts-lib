@@ -21,7 +21,7 @@ Em seguida, adicione a dependência em seu arquivo `pom.xml`:
 
 ```xml
 <dependency>
-  <groupId>br.com.fidias</groupId>
+  <groupId>com.github.open-fidias</groupId>
   <artifactId>nfe-gerar-cacerts-lib</artifactId>
   <version>1.0.0</version>
 </dependency>
